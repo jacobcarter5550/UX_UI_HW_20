@@ -1,0 +1,91 @@
+.thor{
+    background-color: black;
+}
+
+.nav-link{
+    color: white;
+}
+
+.showcaseItems{
+    height: 700px;
+    background-color: black;
+}
+
+.itemHolder{
+    display: flex;
+    justify-content: space-between;
+    color: #239D4B;
+}
+
+.card{
+    margin: 90px 5vw;
+}
+
+.rectangle{
+    width: 100vw;
+    height: 60vh;
+    background-color: #B3DF6D;
+}
+
+.imgHolder{
+    position: absolute;
+    left: 35vw;
+    top: 17vh;
+}
+
+.annex{
+    background-color: #239D4B;
+    color: white;
+    margin: 0;
+}
+
+.add{
+    background-color: #B3DF6D;
+    color: black;
+}
+
+.addon{
+    width: 85vw;
+    margin: 0 0 0px 110px;
+}
+
+.oden{
+    height: 700px;
+    margin: 0 100px;
+}
+
+.extraHolder{
+    background-color: #B3DF6D;
+    display: flex;
+}
+
+.showcase{
+    display: flex;
+    margin-top: 200px;
+    margin-bottom: 75px;
+    margin-left: 10vw;
+}
+
+.fix{
+    margin-bottom: 0;
+    background-color: black;
+    color: white;
+}
+
+.fix2{
+    height: 766px;
+    position: absolute;
+    left: 32px;
+    top: 2542px;
+}
+
+.fix3{
+    height: 766px;
+    position: absolute;
+    left: 557px;
+    top: 2541px;
+}
+
+.finalProd{
+    margin-top: 75px;
+}
